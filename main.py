@@ -15,7 +15,7 @@ canvas = Canvas(gui, width=window_width, height=window_height, background='white
 canvas.pack()
 
 
-########################## YOUR CODE BELOW THIS LINE ##############################
+########################################################################
 
 # initiating my object and creatures:
 
@@ -107,9 +107,7 @@ helpers.get_car(canvas, top_left=(140,520), color="#3D9970", tag='car')
 
 ##the fifth animation is built into the initaite trees function in helpers
 
-
-
-########################## YOUR CODE ABOVE THIS LINE ############################## 
+############################################################################
 
 # makes sure the canvas keeps running:
 canvas.mainloop()
