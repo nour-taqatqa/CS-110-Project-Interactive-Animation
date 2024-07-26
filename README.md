@@ -9,6 +9,6 @@ The ineteractive elements include:
 - Change location of building using keyboard keys
 - Create a car that moves while slowing down in time
 
-Libraries: Tkninter
+Libraries: Tkinter
 
 Multiple other modules were imported 
